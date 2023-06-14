@@ -1,0 +1,86 @@
+
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family :'Kaushan Script', cursive;
+
+}
+body
+{
+    background-color:whitesmoke;
+
+}
+.header
+{
+     position: fixed;
+     top:0;
+     left: 0;
+     width:100%;
+     padding:20px 10%;
+     background-color:darkgreen;
+     display:flex;
+     justify-content: space-between;
+     align-items:center;
+     z-index: 100;
+}
+.logo
+{
+    font-size: 25px;
+    color:whitesmoke;
+    text-decoration: none;
+    font-weight: 600;
+    pointer-events: none;
+
+}
+.navbar a 
+{
+    font-size:18px;
+    color:whitesmoke;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+}
+.navbar a:hover
+{
+     color:black;
+}
+.ip p
+{
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+
+}
+.ip h2
+{
+    font-family :'Kaushan Script', cursive;
+    font-size: 30px;
+    
+}
+.ip p
+{
+    margin-left: 30px;
+    font-size: larger;
+}
+.ip
+{
+    margin-top: 120px;
+}
+.ip h2
+{
+  height:80px;
+  width:1400px;
+  border:3px white;
+  background-color: darkgreen;
+  font-size:50px ;
+  color: wheat;
+}
+
+.img img
+{
+    height:400px;
+    width:400px;
+   margin-left: 500px;
+   margin-top: 40px;
+}

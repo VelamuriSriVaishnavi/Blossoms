@@ -1,0 +1,28 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header
+{
+    display:flex;
+    float:right;
+    font-size: xx-large;
+}
+.nav a{
+    text-decoration: none;
+    margin:20px;
+    color:white;
+}
+body{
+    background-size: cover;
+}
+.bg h1
+{
+ color:black;
+ position:absolute;
+ top:30%;
+ left:38%;
+ 
+}
+
